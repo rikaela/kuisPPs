@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/admin/AndroidStudioProjects/PraktikumPPs/app/src/main/res/drawable/bg_container.xml" value="0.240625" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/PraktikumPPs/app/src/main/res/layout/activity_biodata.xml" value="0.1" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/PraktikumPPs/app/src/main/res/layout/activity_form.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/PraktikumPPs/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/PraktikumPPs/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/PraktikumPPs/app/src/main/res/layout/activity_main.xml" value="0.10576923076923077" />
       </map>
     </option>
